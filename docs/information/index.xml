@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information on Bioinformatics of Microbial Single Cell Genomes</title>
+    <link>http://example.org/information/</link>
+    <description>Recent content in Information on Bioinformatics of Microbial Single Cell Genomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/information/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bigelow Code of Conduct</title>
+      <link>http://example.org/information/2_bigelow_code_of_conduct/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/information/2_bigelow_code_of_conduct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course Schedule</title>
+      <link>http://example.org/information/1_course_schedule/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/information/1_course_schedule/</guid>
+      <description>version 200116
+Day 1 (Monday October 12th) An Overview of Single Cell Genomics:
+  Morning: Introduction to Single Cell Genomics at Bigelow
+ Lecture: Genomes from cultures, single cells and metagenomes &amp;ndash; Ramunas Stepanauskas Introduction to the course computational environment &amp;ndash; Julia Brown    Afternoon: Understanding the Single Cell Genomics Center workflow
+ Tour of SCGC Understanding the SCGC workflow and data structure    Day 2 (Tuesday October 13th) Characterizing SAG sequences:</description>
+    </item>
+    
+  </channel>
+</rss>
